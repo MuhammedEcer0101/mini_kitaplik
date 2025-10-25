@@ -23,15 +23,12 @@ Kullanıcılar kitap listesini görebilir, favorilere ekleyebilir ve kitap detay
 
 ---
 
-## 💻 Kurulum (İsteğe Bağlı)
+## 💻   Link
 
-Projeyi yerel bilgisayarında çalıştırmak istersen:
 
-```bash
-npm install
-npm run dev
 🌐 Canlı Demo
-👉 Proje Vercel Linki (https://mini-kitaplik-oqa5.vercel.app/)
+👉 Proje Vercel Linki https://mini-kitaplik-oqa5.vercel.app/
+
 
 🧠 Geliştirici
 
